@@ -34,7 +34,7 @@ async def start(event):
     if not event.is_private:
         return await event.respond("ɪ ᴀᴍ ᴀʟɪᴠᴇ 🥺")
     await event.reply(
-        "━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ɪ ᴀᴍ ᴀʟᴇxᴀ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✪ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ    : [ᴀsᴀᴅ ᴀʟɪ](https://t.me/Dr_Asad_Ali)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [ᴀʟᴇxᴀ ʜᴇʟᴘ](https://t.me/Alexa_BotUpdates)┓\n┣★ ʀᴇᴘᴏ › : [ᴀʟᴇxᴀ ʀᴇᴘᴏ](https://github.com/TheTeamAlexa/MentionBot)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/Jankari_Ki_Duniya) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
+        "━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ɪ ᴀᴍ ꜰᴀɪʀʏ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✪ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ    : [ 🥂ᴏᴡɴᴇʀ 🥂](https://t.me/ITZ_FAHADXD)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [🥂 ꜰᴀɪʀʏ ʜᴇʟᴘ 🥂](https://t.me/theupdatechannel_143)┓\n┣★ ʀᴇᴘᴏ › : [ʀᴇᴘᴏ](https://te.legra.ph/file/6d8179cfc463fb2f7a704.jpg)\n┗━━━━━━━━━━━━━━━━━┛\n\n🥀 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ🥀 [ᴏᴡɴᴇʀ](https://t.me/ITZ_FAHADXD) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
         link_preview=False,
         buttons=(
             [
