@@ -44,12 +44,12 @@ async def start(event):
                 ),
             ],
             [
-                Button.url("☀︎︎ ɢʀᴏᴜᴘ ☀︎︎︎", "https://t.me/Shayri_Music_Lovers"),
-                Button.url("☀︎︎ ᴄʜᴀɴɴᴇʟ ☀︎︎", "https://t.me/Alexa_BotUpdates"),
+                Button.url("🥀 ɢʀᴏᴜᴘ 🥀", "https://t.me/fairy_support"),
+                Button.url("🥀 ᴄʜᴀɴɴᴇʟ 🥀", "https://t.me/theupdatechannel_143"),
             ],
             [
-                Button.url("☀︎︎ ʙʀᴏ ☀︎︎️️", "https://t.me/Kattai_massom"),
-                Button.url("☀︎︎ ᴋɪɴɢ ☀︎︎︎", "https://t.me/Jankari_Ki_Duniya"),
+                Button.url("🥀 ᴏᴡɴᴇʀ 🥀", "https://t.me/ITZ_FAHADXD"),
+                Button.url("🥀 ᴅᴇᴠᴇʟᴏᴘᴇʀ🥀", "https://t.me/Fahad_xd1"),
             ],
         ),
     )
@@ -66,8 +66,8 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("☀︎︎ ʜᴇᴀʀᴛ", "https://t.me/Give_Me_Heart"),
-                Button.url("ʏᴏᴜᴛᴜʙᴇ ☀︎︎", "https://www.youtube.com/c/JankariKiDuniya"),
+                Button.url("🥀 ᴴᴱᴬᴿᵀ 🥀", "https://t.me/fairy_support"),
+                Button.url("🥀 ʏᴏᴜᴛᴜʙᴇ 🥀", "https://youtube.com/@sheikhafzal859"),
             ]
         ),
     )
@@ -84,8 +84,8 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("☀︎︎ ʜᴇᴀʀᴛ", "https://t.me/Give_Me_Heart"),
-                Button.url("ʏᴏᴜᴛᴜʙᴇ ☀︎︎", "https://www.youtube.com/c/JankariKiDuniya"),
+                Button.url("🥀 ᴴᴱᴬᴿᵀ 🥀", "https://t.me/fairy_support"),
+                Button.url(" 🥀ʏᴏᴜᴛᴜʙᴇ 🥀", "https://youtube.com/@sheikhafzal859"),
             ]
         ),
     )
