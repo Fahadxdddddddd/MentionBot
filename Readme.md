@@ -38,6 +38,6 @@ The Easiest Way To Deploy This On Heroku For Any Browser Copy Link Supported
 
 ## CREDITS
 
-- [Asad Ali](https://t.me/Dr_Asad_Ali)
+- [Fahad](https://t.me/ITZ_FAHADXD)
 - [YouTube](https://www.youtube.com/c/JankariKiDuniya)
-- [Harshit Sharma](https://t.me/HarshitSharma361)
+- [Fahad](https://t.me/ITZ_FAHADXD)
